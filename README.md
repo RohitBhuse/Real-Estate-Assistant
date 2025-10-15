@@ -24,5 +24,5 @@ The generated summary from the LLM will be shown below the input box. The genera
 ![Real Estate Assistant](Images/Page3.png)
 The assistant will print '**No Properties found matching your criteria.**' if no data is found in the dataset satisfing the conditions.
 
-![Real Estate Assistant](Images/Page3.png)
+![Real Estate Assistant](Images/Page4.png)
 In sidebar **New Chat** button allows to create a new chat with assistant and saves the current chat with the user. You can also continue your previous chats with the assistant by clicking on the chat button.
