@@ -15,4 +15,5 @@ The app accepts plain English queries like '2 BHK flats under 1.2 Cr in Mumbai r
 
 # Demo
 
-![Real Estate Assistant](Images/Page1)
+![Real Estate Assistant](Images/Page1.png)
+
