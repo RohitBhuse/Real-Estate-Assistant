@@ -11,3 +11,8 @@ The app accepts plain English queries like '2 BHK flats under 1.2 Cr in Mumbai r
 - **Sidebar Chat History** to keep track of previous queries.
 - **New Chat** button to start fresh conversation.
 - **Clear Chat** button for clearing existing chat with assistant. 
+
+
+# Demo
+
+![Real Estate Assistant](Page1)
